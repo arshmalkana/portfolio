@@ -431,7 +431,7 @@ work: [
   },
   {
     title: "Homelab Infrastructure",
-    href: "https://homelab.itsarsh.dev/",
+    href: "",
     dates: "Sept 2025 - Present",
     active: true,
     description:
@@ -457,7 +457,7 @@ work: [
   },
   {
     title: "Technical Academic Projects",
-    href: "https://www.columbiacollege.ca/",
+    href: "",
     dates: "Jan 2024 - Present",
     active: true,
     technologies: ["LogicWorks", "Assembler", "Pipelining", "APIs", "Automation"],
@@ -471,7 +471,7 @@ work: [
   },
   {
     title: "Digital Transformation for Immigration Consultancy",
-    href: "https://visionieltsacademy.ca",
+    href: "",
     dates: "Apr 2024 - May 2024",
     active: false,
     technologies: [
@@ -485,7 +485,7 @@ work: [
   },
   {
     title: "Photography Studio App",
-    href: "https://osarestudios.com",
+    href: "",
     dates: "Dec 2023 - May 2024",
     active: false,
     technologies: ["React Native", "Strapi CMS", "OAuth", "Google Login", "Firebase", "DigitalOcean"],
@@ -496,6 +496,7 @@ work: [
   },
   {
     title: "Mystery Cam Projector (Experimental)",
+    href: "",
     dates: "Dec 2022",
     active: false,
     technologies: ["Java", "CameraView API", "Android SDK", "Git"],
@@ -506,6 +507,7 @@ work: [
   },
   {
     title: "Files Implementor (Experimental)",
+    href: "",
     dates: "May - Jun 2022",
     active: false,
     technologies: ["PHP", "MySQL", "dex", "Reverse Engineering", "ClassLoader", "Android SDK"],
@@ -515,6 +517,7 @@ work: [
   },
   {
     title: "Metashow (Experimental)",
+    href: "",
     dates: "Feb - Mar 2022",
     active: false,
     technologies: ["Node.js", "ffmpeg", "Azure", "ExoPlayer", "HLS", "RTMP"],
