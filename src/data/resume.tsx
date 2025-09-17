@@ -477,6 +477,18 @@ work: [
     technologies: [
       "WordPress", "cPanel", "Google Apps Script", "Google Forms", "HTML", "CSS", "JavaScript", "Networking"
     ],
+    links: [
+      // {
+      //   type: "GitHub",
+      //   href: "https://github.com/yourrepo/punjab-reporting",
+      //   icon: <Icons.github className="size-3" />,
+      // },
+      // {
+      //   type: "Docs",
+      //   href: "https://itsarsh.dev/docs/homelab",
+      //   icon: <Icons.globe className="size-3" />,
+      // },
+    ],
     description: 
       "Migrated manual spreadsheets into Google Sheets + Forms with automated workflows.\nDeveloped responsive client website to showcase services and enable future visa tracking features.\nPlanned and deployed a 20+ workstation computer lab for PTE training.",
     image: "/networking.png",
@@ -492,6 +504,18 @@ work: [
     description: 
       "Built booking system with scheduling, confirmations, and portfolio showcase.\nIntegrated cart + payments for orders and photo sessions.\nAdded Google login, user profiles, order management, and address book.",
     image: "/osare.png",
+    links: [
+      // {
+      //   type: "GitHub",
+      //   href: "https://github.com/yourrepo/punjab-reporting",
+      //   icon: <Icons.github className="size-3" />,
+      // },
+      // {
+      //   type: "Docs",
+      //   href: "https://itsarsh.dev/docs/homelab",
+      //   icon: <Icons.globe className="size-3" />,
+      // },
+    ],
     video: "",
   },
   {
@@ -503,6 +527,18 @@ work: [
     description: 
       "Explored Android CameraView API and real-time streaming.\nLearned about UX design and Android performance constraints.",
     image: "/mystery.png",
+    links: [
+      // {
+      //   type: "GitHub",
+      //   href: "https://github.com/yourrepo/punjab-reporting",
+      //   icon: <Icons.github className="size-3" />,
+      // },
+      // {
+      //   type: "Docs",
+      //   href: "https://itsarsh.dev/docs/homelab",
+      //   icon: <Icons.globe className="size-3" />,
+      // },
+    ],
     video: "",
   },
   {
@@ -513,6 +549,18 @@ work: [
     technologies: ["PHP", "MySQL", "dex", "Reverse Engineering", "ClassLoader", "Android SDK"],
     description: "Implemented time-based access control with login tokens.\n Designed workflows for secure file download, extraction, and storage.\n Explored remote code execution and dynamic loading within Android apps.",
     image: "",
+    links: [
+      // {
+      //   type: "GitHub",
+      //   href: "https://github.com/yourrepo/punjab-reporting",
+      //   icon: <Icons.github className="size-3" />,
+      // },
+      // {
+      //   type: "Docs",
+      //   href: "https://itsarsh.dev/docs/homelab",
+      //   icon: <Icons.globe className="size-3" />,
+      // },
+    ],
     video: "",
   },
   {
@@ -524,6 +572,18 @@ work: [
     description: 
       "Developed backend with Node.js + ffmpeg deployed on Microsoft Azure.\n Integrated ExoPlayer for smooth mobile video playback.\n Learned about streaming infra and challenges of cloud hosting.",
     image: "",
+    links: [
+      // {
+      //   type: "GitHub",
+      //   href: "https://github.com/yourrepo/punjab-reporting",
+      //   icon: <Icons.github className="size-3" />,
+      // },
+      // {
+      //   type: "Docs",
+      //   href: "https://itsarsh.dev/docs/homelab",
+      //   icon: <Icons.globe className="size-3" />,
+      // },
+    ],
     video: "",
   },
 ],
