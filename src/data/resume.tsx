@@ -86,163 +86,163 @@ work: [
     description:
       "Provide front-line customer support. Gained hands-on experience supporting users in a fast-paced retail environment.",
   },
-  // {
-  //   company: "Personal Homelab Projects",
-  //   href: "https://itsarsh.dev",
-  //   badges: ["Self-hosted"],
-  //   location: "Remote",
-  //   title: "Systems & Cybersecurity Enthusiast",
-  //   logoUrl: "/homelab.png",
-  //   start: "2022",
-  //   end: "Present",
-  //   description:
-  //     "Built and maintain a homelab running Docker, Portainer, and Nginx Proxy Manager on servers in Canada and India. Configured Cloudflare tunnels, RAID storage, and VPN access. Experimented with IT security tools, self-hosted Nextcloud, and CDN-style replication. Developed practical skills in Linux administration, networking, and security hardening.",
-  // },
-  // {
-  //   company: "Punjab Animal Husbandry Reporting System",
-  //   href: "https://itsarsh.dev/projects",
-  //   badges: ["Academic Project"],
-  //   location: "Remote",
-  //   title: "Full-Stack Developer",
-  //   logoUrl: "/punjab.png",
-  //   start: "2024",
-  //   end: "2025",
-  //   description:
-  //     "Designed a full-stack Progressive Web App (React + Fastify + PostgreSQL) for large-scale government reporting (10K+ potential users). Implemented modules for staff management, vaccine distribution, and AI-based services. Integrated JWT authentication, WebAuthn, and offline sync with Dexie/IndexedDB. Deployed and tested using Dockerized workflows.",
-  // },
-  // {
-  //   company: "Osare Studios",
-  //   href: "https://osarestudios.com/",
-  //   badges: [],
-  //   location: "Remote",
-  //   title: "Freelance App Developer",
-  //   logoUrl: "/osare.png",
-  //   start: "2021",
-  //   end: "2022",
-  //   description:
-  //     "Contributed to a React Native booking app for a startup. Built appointment scheduling features and integrated Firebase for authentication. Collaborated with a small team to deliver a functional MVP under tight deadlines.",
-  // },
-  // {
-  //   company: "Personal IT Projects",
-  //   href: "https://github.com/itsarsh",
-  //   badges: ["Independent"],
-  //   location: "Remote",
-  //   title: "Project Builder",
-  //   logoUrl: "/projects.png",
-  //   start: "Ongoing",
-  //   end: "Present",
-  //   description:
-  //     "Created various projects: • ESP32-based print server • File-sharing app (PHP + Java Android) • Website for an electrician business (WordPress). These projects helped strengthen my skills in full-stack development, IT support, and practical problem solving.",
-  // },
+    // {
+    //   company: "Personal Homelab Projects",
+    //   href: "https://itsarsh.dev",
+    //   badges: ["Self-hosted"],
+    //   location: "Remote",
+    //   title: "Systems & Cybersecurity Enthusiast",
+    //   logoUrl: "/homelab.png",
+    //   start: "2022",
+    //   end: "Present",
+    //   description:
+    //     "Built and maintain a homelab running Docker, Portainer, and Nginx Proxy Manager on servers in Canada and India. Configured Cloudflare tunnels, RAID storage, and VPN access. Experimented with IT security tools, self-hosted Nextcloud, and CDN-style replication. Developed practical skills in Linux administration, networking, and security hardening.",
+    // },
+    // {
+    //   company: "Punjab Animal Husbandry Reporting System",
+    //   href: "https://itsarsh.dev/projects",
+    //   badges: ["Academic Project"],
+    //   location: "Remote",
+    //   title: "Full-Stack Developer",
+    //   logoUrl: "/punjab.png",
+    //   start: "2024",
+    //   end: "2025",
+    //   description:
+    //     "Designed a full-stack Progressive Web App (React + Fastify + PostgreSQL) for large-scale government reporting (10K+ potential users). Implemented modules for staff management, vaccine distribution, and AI-based services. Integrated JWT authentication, WebAuthn, and offline sync with Dexie/IndexedDB. Deployed and tested using Dockerized workflows.",
+    // },
+    // {
+    //   company: "Osare Studios",
+    //   href: "https://osarestudios.com/",
+    //   badges: [],
+    //   location: "Remote",
+    //   title: "Freelance App Developer",
+    //   logoUrl: "/osare.png",
+    //   start: "2021",
+    //   end: "2022",
+    //   description:
+    //     "Contributed to a React Native booking app for a startup. Built appointment scheduling features and integrated Firebase for authentication. Collaborated with a small team to deliver a functional MVP under tight deadlines.",
+    // },
+    // {
+    //   company: "Personal IT Projects",
+    //   href: "https://github.com/itsarsh",
+    //   badges: ["Independent"],
+    //   location: "Remote",
+    //   title: "Project Builder",
+    //   logoUrl: "/projects.png",
+    //   start: "Ongoing",
+    //   end: "Present",
+    //   description:
+    //     "Created various projects: • ESP32-based print server • File-sharing app (PHP + Java Android) • Website for an electrician business (WordPress). These projects helped strengthen my skills in full-stack development, IT support, and practical problem solving.",
+    // },
 ],
-  // work: [
-  //   {
-  //     company: "Atomic Finance",
-  //     href: "https://atomic.finance",
-  //     badges: [],
-  //     location: "Remote",
-  //     title: "Bitcoin Protocol Engineer",
-  //     logoUrl: "/atomic.png",
-  //     start: "May 2021",
-  //     end: "Oct 2022",
-  //     description:
-  //       "Implemented the Bitcoin discreet log contract (DLC) protocol specifications as an open source Typescript SDK. Dockerized all microservices and setup production kubernetes cluster. Architected a data lake using AWS S3 and Athena for historical backtesting of bitcoin trading strategies. Built a mobile app using react native and typescript.",
-  //   },
-  //   {
-  //     company: "Shopify",
-  //     badges: [],
-  //     href: "https://shopify.com",
-  //     location: "Remote",
-  //     title: "Software Engineer",
-  //     logoUrl: "/shopify.svg",
-  //     start: "January 2021",
-  //     end: "April 2021",
-  //     description:
-  //       "Implemented a custom Kubernetes controller in Go to automate the deployment of MySQL and ProxySQL custom resources in order to enable 2,000+ internal developers to instantly deploy their app databases to production. Wrote several scripts in Go to automate MySQL database failovers while maintaining master-slave replication topologies and keeping Zookeeper nodes consistent with changes.",
-  //   },
-  //   {
-  //     company: "Nvidia",
-  //     href: "https://nvidia.com/",
-  //     badges: [],
-  //     location: "Santa Clara, CA",
-  //     title: "Software Engineer",
-  //     logoUrl: "/nvidia.png",
-  //     start: "January 2020",
-  //     end: "April 2020",
-  //     description:
-  //       "Architected and wrote the entire MVP of the GeForce Now Cloud Gaming internal admin and A/B testing dashboard using React, Redux, TypeScript, and Python.",
-  //   },
-  //   {
-  //     company: "Splunk",
-  //     href: "https://splunk.com",
-  //     badges: [],
-  //     location: "San Jose, CA",
-  //     title: "Software Engineer",
-  //     logoUrl: "/splunk.svg",
-  //     start: "January 2019",
-  //     end: "April 2019",
-  //     description:
-  //       "Co-developed a prototype iOS app with another intern in Swift for the new Splunk Phantom security orchestration product (later publicly demoed and launched at .conf annual conference in Las Vegas). Implemented a realtime service for the iOS app in Django (Python) and C++; serialized data using protobufs transmitted over gRPC resulting in an approximate 500% increase in data throughput.",
-  //   },
-  //   {
-  //     company: "Lime",
-  //     href: "https://li.me/",
-  //     badges: [],
-  //     location: "San Francisco, CA",
-  //     title: "Software Engineer",
-  //     logoUrl: "/lime.svg",
-  //     start: "January 2018",
-  //     end: "April 2018",
-  //     description:
-  //       "Proposed and implemented an internal ruby API for sending/receiving commands to scooters over LTE networks. Developed a fully automated bike firmware update system to handle asynchronous firmware updates of over 100,000+ scooters worldwide, and provide progress reports in real-time using React, Ruby on Rails, PostgreSQL and AWS EC2 saving hundreds of developer hours.",
-  //   },
-  //   {
-  //     company: "Mitre Media",
-  //     href: "https://mitremedia.com/",
-  //     badges: [],
-  //     location: "Toronto, ON",
-  //     title: "Software Engineer",
-  //     logoUrl: "/mitremedia.png",
-  //     start: "May 2017",
-  //     end: "August 2017",
-  //     description:
-  //       "Designed and implemented a robust password encryption and browser cookie storage system in Ruby on Rails. Leveraged the Yahoo finance API to develop the dividend.com equity screener",
-  //   },
-  // ],
-  // education: [
-  //   {
-  //     school: "Buildspace",
-  //     href: "https://buildspace.so",
-  //     degree: "s3, s4, sf1, s5",
-  //     logoUrl: "/buildspace.jpg",
-  //     start: "2023",
-  //     end: "2024",
-  //   },
-  //   {
-  //     school: "University of Waterloo",
-  //     href: "https://uwaterloo.ca",
-  //     degree: "Bachelor's Degree of Computer Science (BCS)",
-  //     logoUrl: "/waterloo.png",
-  //     start: "2016",
-  //     end: "2021",
-  //   },
-  //   {
-  //     school: "Wilfrid Laurier University",
-  //     href: "https://wlu.ca",
-  //     degree: "Bachelor's Degree of Business Administration (BBA)",
-  //     logoUrl: "/laurier.png",
-  //     start: "2016",
-  //     end: "2021",
-  //   },
-  //   {
-  //     school: "International Baccalaureate",
-  //     href: "https://ibo.org",
-  //     degree: "IB Diploma",
-  //     logoUrl: "/ib.png",
-  //     start: "2012",
-  //     end: "2016",
-  //   },
-  // ],
+    // work: [
+    //   {
+    //     company: "Atomic Finance",
+    //     href: "https://atomic.finance",
+    //     badges: [],
+    //     location: "Remote",
+    //     title: "Bitcoin Protocol Engineer",
+    //     logoUrl: "/atomic.png",
+    //     start: "May 2021",
+    //     end: "Oct 2022",
+    //     description:
+    //       "Implemented the Bitcoin discreet log contract (DLC) protocol specifications as an open source Typescript SDK. Dockerized all microservices and setup production kubernetes cluster. Architected a data lake using AWS S3 and Athena for historical backtesting of bitcoin trading strategies. Built a mobile app using react native and typescript.",
+    //   },
+    //   {
+    //     company: "Shopify",
+    //     badges: [],
+    //     href: "https://shopify.com",
+    //     location: "Remote",
+    //     title: "Software Engineer",
+    //     logoUrl: "/shopify.svg",
+    //     start: "January 2021",
+    //     end: "April 2021",
+    //     description:
+    //       "Implemented a custom Kubernetes controller in Go to automate the deployment of MySQL and ProxySQL custom resources in order to enable 2,000+ internal developers to instantly deploy their app databases to production. Wrote several scripts in Go to automate MySQL database failovers while maintaining master-slave replication topologies and keeping Zookeeper nodes consistent with changes.",
+    //   },
+    //   {
+    //     company: "Nvidia",
+    //     href: "https://nvidia.com/",
+    //     badges: [],
+    //     location: "Santa Clara, CA",
+    //     title: "Software Engineer",
+    //     logoUrl: "/nvidia.png",
+    //     start: "January 2020",
+    //     end: "April 2020",
+    //     description:
+    //       "Architected and wrote the entire MVP of the GeForce Now Cloud Gaming internal admin and A/B testing dashboard using React, Redux, TypeScript, and Python.",
+    //   },
+    //   {
+    //     company: "Splunk",
+    //     href: "https://splunk.com",
+    //     badges: [],
+    //     location: "San Jose, CA",
+    //     title: "Software Engineer",
+    //     logoUrl: "/splunk.svg",
+    //     start: "January 2019",
+    //     end: "April 2019",
+    //     description:
+    //       "Co-developed a prototype iOS app with another intern in Swift for the new Splunk Phantom security orchestration product (later publicly demoed and launched at .conf annual conference in Las Vegas). Implemented a realtime service for the iOS app in Django (Python) and C++; serialized data using protobufs transmitted over gRPC resulting in an approximate 500% increase in data throughput.",
+    //   },
+    //   {
+    //     company: "Lime",
+    //     href: "https://li.me/",
+    //     badges: [],
+    //     location: "San Francisco, CA",
+    //     title: "Software Engineer",
+    //     logoUrl: "/lime.svg",
+    //     start: "January 2018",
+    //     end: "April 2018",
+    //     description:
+    //       "Proposed and implemented an internal ruby API for sending/receiving commands to scooters over LTE networks. Developed a fully automated bike firmware update system to handle asynchronous firmware updates of over 100,000+ scooters worldwide, and provide progress reports in real-time using React, Ruby on Rails, PostgreSQL and AWS EC2 saving hundreds of developer hours.",
+    //   },
+    //   {
+    //     company: "Mitre Media",
+    //     href: "https://mitremedia.com/",
+    //     badges: [],
+    //     location: "Toronto, ON",
+    //     title: "Software Engineer",
+    //     logoUrl: "/mitremedia.png",
+    //     start: "May 2017",
+    //     end: "August 2017",
+    //     description:
+    //       "Designed and implemented a robust password encryption and browser cookie storage system in Ruby on Rails. Leveraged the Yahoo finance API to develop the dividend.com equity screener",
+    //   },
+    // ],
+    // education: [
+    //   {
+    //     school: "Buildspace",
+    //     href: "https://buildspace.so",
+    //     degree: "s3, s4, sf1, s5",
+    //     logoUrl: "/buildspace.jpg",
+    //     start: "2023",
+    //     end: "2024",
+    //   },
+    //   {
+    //     school: "University of Waterloo",
+    //     href: "https://uwaterloo.ca",
+    //     degree: "Bachelor's Degree of Computer Science (BCS)",
+    //     logoUrl: "/waterloo.png",
+    //     start: "2016",
+    //     end: "2021",
+    //   },
+    //   {
+    //     school: "Wilfrid Laurier University",
+    //     href: "https://wlu.ca",
+    //     degree: "Bachelor's Degree of Business Administration (BBA)",
+    //     logoUrl: "/laurier.png",
+    //     start: "2016",
+    //     end: "2021",
+    //   },
+    //   {
+    //     school: "International Baccalaureate",
+    //     href: "https://ibo.org",
+    //     degree: "IB Diploma",
+    //     logoUrl: "/ib.png",
+    //     start: "2012",
+    //     end: "2016",
+    //   },
+    // ],
   education: [
   {
     school: "Columbia College",
@@ -390,15 +390,13 @@ work: [
   //       },
   //     ],
   //     image: "",
-  //     video:
-  //       "https://pub-83c5db439b40468498f97946200806f7.r2.dev/automatic-chat.mp4",
-  //   },
+
   // ],
   projects: [
   {
     title: "Punjab Animal Husbandry Reporting System",
-    href: "https://itsarsh.dev/projects/punjab-reporting",
-    dates: "Jan 2025 – Present",
+    href: "",
+    dates: "Jun 2022 - Present",
     active: true,
     description:
       "A full-stack PWA built for managing animal husbandry data across Punjab. Features include staff management, vaccine distribution, AI services, and offline-first sync with Dexie/IndexedDB and CouchDB replication. Designed to support 10K+ monthly active users.",
@@ -411,16 +409,25 @@ work: [
       "Docker",
       "WebAuthn",
       "JWT",
-      "TailwindCSS"
+      "TailwindCSS",
+            "Java", "Google Sheets API", "Google Apps Script", "React PWA", "PostgreSQL", "Fastify", "Figma"
+
     ],
     links: [
-      {
-        type: "GitHub",
-        href: "https://github.com/yourrepo/punjab-reporting",
-        icon: <Icons.github className="size-3" />,
-      },
+      // {
+      //   type: "GitHub",
+      //   href: "https://github.com/yourrepo/punjab-reporting",
+      //   icon: <Icons.github className="size-3" />,
+      // },
+      // {
+      //   type: "Docs",
+      //   href: "https://itsarsh.dev/docs/homelab",
+      //   icon: <Icons.globe className="size-3" />,
+      // },
     ],
-    image: "/projects/punjab.png",
+    image: "/punjab.png",  
+    video: "",
+
   },
   {
     title: "Homelab Infrastructure",
@@ -440,57 +447,81 @@ work: [
     links: [
       {
         type: "Docs",
-        href: "https://itsarsh.dev/docs/homelab",
+        href: "https://homelab.itsarsh.dev/",
         icon: <Icons.globe className="size-3" />,
       },
     ],
-    image: "/projects/homelab.png",
+    image: "/homelab.png",
+    video: "",
+
   },
   {
-    title: "Admin App for Punjab District HQs",
-    href: "https://itsarsh.dev/projects/admin-app",
-    dates: "July 2025 – Present",
+    title: "Technical Academic Projects",
+    href: "https://www.columbiacollege.ca/",
+    dates: "Jan 2024 - Present",
     active: true,
-    description:
-      "Designed an admin dashboard to manage tehsil, district, and HQ-level operations for Punjab Animal Husbandry. Includes reporting tools, postings management, and service workflows.",
-    technologies: [
-      "React",
-      "TailwindCSS",
-      "PostgreSQL",
-      "Prisma",
-      "Docker"
-    ],
-    links: [
-      {
-        type: "Wireframe",
-        href: "https://www.figma.com/file/xxx/Admin-app",
-        icon: <Icons.globe className="size-3" />,
-      },
-    ],
-    image: "/projects/admin.png",
+    technologies: ["LogicWorks", "Assembler", "Pipelining", "APIs", "Automation"],
+    links: [],
+    description: 
+      "Built MIPS CPU using LogicWorks circuit diagrams (won Classroom Appreciation Award).\n Designed and built a RISC Assembler for 16-bit Thumb instruction.\n Implemented RISC CPU with pipelining, hazard detection, and stalling.\n Developed automation bot using APIs to auto-register courses instantly at seat release."
+    ,
+    image: "/mips.png",
+    video: "",
+
   },
   {
-    title: "ESP32 Print Server",
-    href: "https://itsarsh.dev/projects/esp32-printserver",
-    dates: "2024",
+    title: "Digital Transformation for Immigration Consultancy",
+    href: "https://visionieltsacademy.ca",
+    dates: "Apr 2024 - May 2024",
     active: false,
-    description:
-      "Custom PCB design using ESP32 to act as a wireless print server. Integrated RFID module for authentication and built a lightweight web-based UI for job management.",
     technologies: [
-      "ESP32",
-      "C++",
-      "PCB Design",
-      "MicroPython",
-      "RFID"
+      "WordPress", "cPanel", "Google Apps Script", "Google Forms", "HTML", "CSS", "JavaScript", "Networking"
     ],
-    links: [
-      {
-        type: "GitHub",
-        href: "https://github.com/yourrepo/esp32-printserver",
-        icon: <Icons.github className="size-3" />,
-      },
-    ],
-    image: "/projects/esp32.png",
+    description: 
+      "Migrated manual spreadsheets into Google Sheets + Forms with automated workflows.\nDeveloped responsive client website to showcase services and enable future visa tracking features.\nPlanned and deployed a 20+ workstation computer lab for PTE training.",
+    image: "/networking.png",
+    video: "",
+
+  },
+  {
+    title: "Photography Studio App",
+    href: "https://osarestudios.com",
+    dates: "Dec 2023 - May 2024",
+    active: false,
+    technologies: ["React Native", "Strapi CMS", "OAuth", "Google Login", "Firebase", "DigitalOcean"],
+    description: 
+      "Built booking system with scheduling, confirmations, and portfolio showcase.\nIntegrated cart + payments for orders and photo sessions.\nAdded Google login, user profiles, order management, and address book.",
+    image: "/osare.png",
+    video: "",
+  },
+  {
+    title: "Mystery Cam Projector (Experimental)",
+    dates: "Dec 2022",
+    active: false,
+    technologies: ["Java", "CameraView API", "Android SDK", "Git"],
+    description: 
+      "Explored Android CameraView API and real-time streaming.\nLearned about UX design and Android performance constraints.",
+    image: "/mystery.png",
+    video: "",
+  },
+  {
+    title: "Files Implementor (Experimental)",
+    dates: "May - Jun 2022",
+    active: false,
+    technologies: ["PHP", "MySQL", "dex", "Reverse Engineering", "ClassLoader", "Android SDK"],
+    description: "Implemented time-based access control with login tokens.\n Designed workflows for secure file download, extraction, and storage.\n Explored remote code execution and dynamic loading within Android apps.",
+    image: "",
+    video: "",
+  },
+  {
+    title: "Metashow (Experimental)",
+    dates: "Feb - Mar 2022",
+    active: false,
+    technologies: ["Node.js", "ffmpeg", "Azure", "ExoPlayer", "HLS", "RTMP"],
+    description: 
+      "Developed backend with Node.js + ffmpeg deployed on Microsoft Azure.\n Integrated ExoPlayer for smooth mobile video playback.\n Learned about streaming infra and challenges of cloud hosting.",
+    image: "",
+    video: "",
   },
 ],
 
